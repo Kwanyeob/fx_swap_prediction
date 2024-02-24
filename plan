@@ -1,0 +1,57 @@
+Data science project for my grad school admission portfolio
+
+Foreign exchange Swap prediction (USA - YEN)
+
+7 steps for this project.
+
+1. Problem Statement
+2. Data Collection
+3. Data Cleaning
+4. Exploratory Data Analysis (EDA)
+5. Feature Engineering
+6. Modelling
+7. Possible extension (NLP)
+
+
+1. Problem Statement
+The objective of a problem statement is to state the problem you are trying to solve clearly.
+
+    1) Specific: The problem statement has to be detailed and specific to the problem you are solving.
+        Collecting dataset for USD - YEN FX swap rate and predict the rate in the future using ML algorithm.
+        Possibly LSTM but further research requires.
+
+    2) Measurable: Are there any metrics you can track so that you can tell if it is successful at the end of the project?
+        If the dataset is large enough to divide one for training and the other for back-testing then leave the later part of the
+        dataset as a "answer sheet" to check how good my prediction is.
+        If not, then need to wait for the data to be created and check.
+
+    3) Action: What specific actions can you take to solve your problem?
+        Need a sophisticated research for the suitable ML model for prediction. And make sure what I can IMPROVE from the last
+        project, Tensorust and put that in accountable.(ARIMA)
+
+    4) Relevant: There are multiple ways to solve a problem but focus on the most relevant method.
+
+    5) Timebound: Have you added a time constraint to when your problem should be solved?
+        Will finish this by Fall 2024. Before I apply for the grad school.
+
+
+
+2. Data collection
+
+Found this website.
+
+https://www.federalreserve.gov/releases/h10/hist/dat00_ja.htm
+
+We will handle two datasets
+
+JYP/USD
+AUD/USD
+
+CSV downloaded from the website.
+
+3. Data Cleaning
+
+
+
+
+
